@@ -11,7 +11,7 @@ os.system("pkg install git -y ")
 os.system("pkg install python-pip git -y")
 os.system("pkg install speedtest-cli -y")
 os.system("clear")
-x=("python3 a.py")
+x=("python3 ttool.py")
 print ("""
   __                                        __                .__
 _/  |_  ___________  _____  __ _____  ___ _/  |_  ____   ____ |  |   ______
